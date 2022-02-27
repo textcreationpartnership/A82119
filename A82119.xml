@@ -1,0 +1,204 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The declaration of the army concerning the Kings Majesty, the Prince of Wales, and citizens of London, agreed upon by the officers and souldiers, under the command of the Lord Gen. Fairfax, to be read and published throughtout the respective counties within the kingdom of England, and dominion of Wales. And a remonstrance thereupon, touching the proceedings of the King, and both Houses of Parliament. Together, with a letter read in both Houses, containing a charge against all those who shall act countrary to the lawes of the land, either against King of Parliament. Signed by the agents of the army, in the name of themselves and the whole kingdom, and commanded to be forthwith printed and published.</title>
+            <author>England and Wales. Army.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A82119</idno>
+            <idno type="STC">Wing D633</idno>
+            <idno type="STC">Thomason E472_6</idno>
+            <idno type="STC">ESTC R205718</idno>
+            <idno type="EEBO-CITATION">99865013</idno>
+            <idno type="PROQUEST">99865013</idno>
+            <idno type="VID">162413</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A82119)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 162413)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 75:E472[6])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The declaration of the army concerning the Kings Majesty, the Prince of Wales, and citizens of London, agreed upon by the officers and souldiers, under the command of the Lord Gen. Fairfax, to be read and published throughtout the respective counties within the kingdom of England, and dominion of Wales. And a remonstrance thereupon, touching the proceedings of the King, and both Houses of Parliament. Together, with a letter read in both Houses, containing a charge against all those who shall act countrary to the lawes of the land, either against King of Parliament. Signed by the agents of the army, in the name of themselves and the whole kingdom, and commanded to be forthwith printed and published.</title>
+                  <author>England and Wales. Army.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for R. Williamson, and are to be sold in St. Dunstons Church-yard, near Temple-Barre,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "Nouemb: 14".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  I, --  King of England, 1600-1649.</term>
+               <term>England and Wales. --  Army --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Peace --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-05</date>
+            <label>Sarah Wingo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-05</date>
+            <label>Sarah Wingo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:162413:1" rendition="simple:additions"/>
+            <p>A DECLARATION OF THE ARMY, CONCERNING The Kings Majeſty, the Prince of WALES, and the Citizens of LONDON, Agreed upon by the Officers and Souldiers, under the Command of the Lord Gen. <hi>Fairfax,</hi> to be read and publiſhed throughout the reſpective Counties within the Kingdom of <hi>England,</hi> and Do<g ref="char:EOLhyphen"/>minion of <hi>Wales.</hi>
+            </p>
+            <p>AND A Remonſtrance thereupon, touching the pro<g ref="char:EOLhyphen"/>ceedings of the King, and both Houſes of Parliament.</p>
+            <p>TOGETHER, With a Letter read in both Houſes, containing a Charge againſt all thoſe who ſhall act contrary to the Lawes of the Land, either againſt King or Parliament.</p>
+            <q>SIgned by the Agents of the Army, in the name of themſelves and the whole Kingdom, and Commanded to be forthwith Prin<g ref="char:EOLhyphen"/>ted and publiſhed.</q>
+            <p>London, <hi>Printed for</hi> R. Williamſon, <hi>and are to be ſold in St.</hi> Dunſtons <hi>Church-yard, near</hi> Temple-Barre, 1648.</p>
+         </div>
+      </front>
+      <body>
+         <div type="declaration">
+            <pb facs="tcp:162413:2"/>
+            <pb n="1" facs="tcp:162413:2"/>
+            <head>A Declaration from the Northern Ar<g ref="char:EOLhyphen"/>my, concerning the Kings Majeſty, the Prince of <hi>Wales,</hi> and the Duke of <hi>York,</hi> and their De<g ref="char:EOLhyphen"/>mands and Reſolutions thereupon.</head>
+            <p>VVHereas we have lately ſeen a Copy of your Propoſalls, preſented by the Agents of the reſpective Regiments, to our ever honoured Gen. the Councell of the Army, we do there<g ref="char:EOLhyphen"/>fore declare, that we do unanimouſly embrace the ſame, and bleſſe God, that he hath made you Inſtruments of ſo happy a work, promiſing all aſſiſtance therein, and proteſting to live and dye with you for the accompliſh<g ref="char:EOLhyphen"/>ing of the ſame; we ſhall be no longer ſilent, in this great work, but are reſolved forthwith to ſend our Agents unto you, to the end, that our ſence and Reſolutions, may appear viſible, to the general Councel, now aſſembled by the voice of the Army.</p>
+            <p>And we do further declare, that we are reſolved to ſtand and fall with you, for the ſpeedy executing of Ju<g ref="char:EOLhyphen"/>ſtice
+<pb n="2" facs="tcp:162413:3"/>upon all perſons whatſoever, even from the higheſt to the loweſt, and in all other particulars whatſoever, now agitating by you (our fellow Souldiers and Com<g ref="char:EOLhyphen"/>moners) in the South, in relation to the proceedings of the King, the Prince, and the Duke, &amp;c.</p>
+            <closer>
+               <dateline>
+                  <hi>Dated from their laſt ge<g ref="char:EOLhyphen"/>nerall meeti<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>g near York,</hi> 
+                  <date>
+                     <hi>Novemb.</hi> 10. 1648.</date>
+               </dateline>
+               <signed>Subſcribed by the Agents of the reſpective Regi<g ref="char:EOLhyphen"/>ments, throughout the Northern Brigade.</signed>
+            </closer>
+         </div>
+         <div type="declaration">
+            <head>A Declaration of the further proceedings in the North con<g ref="char:EOLhyphen"/>cerning King and Kingdom, Sent in a Letter to the Right Honourable, <hi>William Lenthall</hi>
+               <hi>Eſq;</hi> Speaker of the Honourable Houſe of Commons.</head>
+            <opener>
+               <salute>Mr. Speaker,</salute>
+            </opener>
+            <p>LIeutenant Generall <hi>Crumwell</hi> upon conference with us Gnetlemen of the four Northern Counties, con<g ref="char:EOLhyphen"/>ceives it neceſſary, that the ſtanding Gariſon of <hi>Barwick</hi> be 1200 foot, and the Garriſon of <hi>Carlile</hi> 800, and that there be alſo two Regiments of horſe, conſiſting of 600 in a Regiment; to be ready upon all occaſions to reſiſt &amp; oppoſe any Invaſion that may happen by Sea or Land, and to quell Inſurrections, that may riſe amongſt us, &amp; to ſuppreſſe the Moſs troopers, they being now ſtron<g ref="char:EOLhyphen"/>ger then ever, many of the enemies ſcattered horſe being gathered to them, we ſhall moſt readily and heartily endeavour to do the utmoſt theſe poor Counties are able but ſir, you know our intolerable ſufferings, not onely this laſt Summer, but from the beginning of theſe King<g ref="char:EOLhyphen"/>doms
+<pb n="3" facs="tcp:162413:3"/>troubles, &amp; our Petition doth a little ſet forth the ſad condition that wee are now in; wee, therefore moſt earneſtly intreat you to move the Houſe that theſe forces both of horſe and foot, may be maintained by the whole Kingdom, not only in reſpect of our ex<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ream poverty &amp; diſabilities, but becauſe they are the frontier Gariſons between the 2. Kingdoms, and have ever been maintain<g ref="char:EOLhyphen"/>ed by the publike, we preſs this the more earneſtly, know<g ref="char:EOLunhyphen"/>ing the neceſſity of a ſpeedy proviſion, and the impoſſi<g ref="char:EOLhyphen"/>bility for theſe Counties to provide for ſuch a force, and to what generall way the Houſe pleaſe to appoint, who ſhall willingly and freely contribute our proportion, and labour both in that and all other things to ſhew our ſelves, Sir, <hi>Your faithfull Servant,</hi> &amp;c.</p>
+         </div>
+         <div type="part">
+            <head>A new Remonſtrance from the North, con<g ref="char:EOLhyphen"/>cerning the King, and the Royall party, read in both Houſes of Parliament.</head>
+            <p>WHereas we had formerly ſome hopes that lenity towards thoſe who had been in Arms &amp; other<g ref="char:EOLhyphen"/>wiſe active againſt the Parl. would ſo far have prevailed with them, that we might have peaceably enjoyed our own habitations, but we have lately found by wofull experience, that the permitting ſuch perſons, eſpecially thoſe of intereſt in the Country to live amongſt us, hath brought moſt unſufferable miſery upon theſe Countries:
+<pb n="4" facs="tcp:162413:4"/>Inſomuch, as we may juſtly fear the periſhing of many F<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>milies this Win or for want of bread; Gentlemen of quality and their Families having no other drink but wa<g ref="char:EOLhyphen"/>ter, and as an exceeding addition to our former ſorrows, ſuffered this Summer by impriſoning our pe ſons, diſ<g ref="char:EOLhyphen"/>peopling our Towns, compelling all able to bear Arms, betwixt the age of 60. and 16. to aſſiſt againſt the Parl. and by deſtroying our corn and goods, and killing our Neighbours and Countrimen, and driving away our Cattle: And alſo by bringing into the Kingdom a for<g ref="char:EOLhyphen"/>reign Nation, and by treacherouſly ſurprizing, and moſt baſely delivering into the Scots hands, the two conſide<g ref="char:EOLhyphen"/>rable Towns of <hi>Barwick</hi> and <hi>Cartile,</hi> &amp; by further aiding and aſſiſting of them, towards the ſubduing and enſla<g ref="char:EOLhyphen"/>ving of our Kingdom, that many of the actors, contrivers, and aſſiſters in that horrible and traiterous Deſign, not only againſt our Countries, but the Parl. and Kingdom, are after all their Summers abominable treaſon and out<g ref="char:EOLhyphen"/>rages, now returned with much confidence and boldneſſe to their own houſes, intending to hatch (as we have cauſe to believe) now plots this Winter amongſt us.</p>
+            <p>The premiſſes conſidered, we pray that juſtice may be ſpeedily executed on ſuch impl<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>cable enemies and declared Traitors to the Parliament, Kingdom, &amp; their Countries, and to that end a Commiſſion of <hi>Oyre</hi> and <hi>Terminer,</hi> with learned and faithfull Judges may be forthwith ſent down into theſe Northern parts, or ſuch o h<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r legall Courſe reſolved on as to your wiſdome ſhal ſeeme beſt for their ſpeedy trials in theſe Northern Counties where they have committed the offences, and that a Solicitor may be forthwith ſent down into theſe parts, that ſuch as are fled out of the Kingdom, or gone
+<pb n="5" facs="tcp:162413:4"/>yond Sea, may be proceeded againſt according to Law, we know no other way under God to prevent a new war, for many Delinquents late in Arms, are not only retur<g ref="char:EOLhyphen"/>ned to their own houſes, but meet, and have already their private conſultations, pretending Articles for their peaceable living at home, and are thereupon ſo inſolent, that they ride armed to publike places, and do not ſtick to ſay that they yet expect a turn for all this, and we find by experience, that unleſſe the Houſe do ſeverely proceed againſt ſuch notorious Delinquents, many of the people in theſe parts will adhere to them, and juſtifie their actions, and be ready to riſe up in Arms with them upon all occaſions.</p>
+            <p>We preſſe more earneſtly the granting of this, know<g ref="char:EOLhyphen"/>ing that the peace and quiet of the North, if not of the whole Kingdom, depends upon it.</p>
+            <p>
+               <hi>His Majeſties Remonſtrance to the Parliament.</hi>
+            </p>
+            <p>FOr a finall anſwer to you, as to you paper of the firſt of this inſtant, and the notes therein mentioned con<g ref="char:EOLhyphen"/>cerning the Church, His Majeſty ſaith, that his Conceſ<g ref="char:EOLhyphen"/>ſions expreſſeth in that paper, and miſ-apprehended in theſe particulars following, <hi>viz.</hi> He never did, nor doth intend to make any more new Biſhops during the terme of 3. years, that the power of Ordination ſhould be prac<g ref="char:EOLhyphen"/>tiſed in the old manner as formerly, for that heretofore the Biſhops were at liberty to call what Presbyters they would to aſſiſt ordaining, but were not bound to their Councell or conſent; but his Maj<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſty doth now intend, and will conſent, that Biſhops ſhall not receive any into holy orders without the conſent and limited number of Presbyters, to be choſen i<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſuch manner as ſhall be agre<g ref="char:EOLhyphen"/>ed
+<pb n="6" facs="tcp:162413:5"/>on by his M<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>j. &amp; his 2 Houſes for that purpoſe. Nei<g ref="char:EOLhyphen"/>ther did his Maj. intend that a<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e the end of 3. years, n<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> certain way ſhould be ſetled concerning Eccl ſi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſticall Governm<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nt; for that his Maj. did purpoſe du<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ing the 3. years, to have a conſultation with the Aſſembly of Di<g ref="char:EOLhyphen"/>vines. 20. being added of his own nomination; which if his 2. Houſes ſhall reſolve to entertain, i<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> cannot well be doubted, but upon the debate, ſuch a Government will be agreed upon by his Maj. and his 2. Houſes, as ſhall be beſt for the pe<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ce of the Church, and moſt proper to prevent thoſe diſtractions which his 2. Houſes apprehend may enſue.</p>
+            <p>And as to that part of the propoſition concerning the Book of Common-Prayer, for the ſatisfaction of his 2. Houſes, his Maj. will not inſiſt upon any proviſion for continuance of the ſame in his Maj. Chappell for him<g ref="char:EOLhyphen"/>ſelf and his Houſhold; nevertheleſſe, his Maj. declares, that he intends to uſe ſome other ſet form of Divine Service.</p>
+            <p>And as to all other particulars in your paper mentio<g ref="char:EOLhyphen"/>ned, his Maj. having in his former Anſwers conſented ſo far as poſſibly he can, as he ſtands at preſent perſwaded in his judgment; doth refer himſelf thereunto. And ſince his Maj. by his Conceſſions hath brought all differences concerning the Church into ſo narrow a compaſſe, that the chief viſible obſtruction is that, wherein really in conſcience he is not ſatisfied: He hopes his 2. Houſes will not put further preſſures of ſo tender a nature upon him, when it is moſt likely the time and Debate will happily reconcile all theſe differences.</p>
+            <closer>
+               <dateline>
+                  <hi>Dated from his Majeſties Court at Newport,</hi> 
+                  <date>the 12. <hi>of November,</hi> 1648.</date>
+               </dateline>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
